@@ -54,6 +54,11 @@
             <groupId>org.bitbucket.b_c</groupId>
             <artifactId>jose4j</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.nimbusds</groupId>
+            <artifactId>oauth2-oidc-sdk</artifactId>
+            <version>5.38</version>
+        </dependency>
         <!-- Swagger dependencies -->
         <dependency>
             <groupId>io.swagger</groupId>
